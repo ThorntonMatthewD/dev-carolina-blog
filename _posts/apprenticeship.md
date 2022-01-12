@@ -1,7 +1,7 @@
 ---
 title: 'An Apprenticeship in Confidence'
 excerpt: '"The End" is not always the end.'
-coverImage: '/assets/blog/craftmanship/cover.jpg'
+coverImage: '/assets/blog/apprenticeship/cover.jpg'
 date: '2022-01-12T14:12:07.322Z'
 author:
   name: Matt Thornton

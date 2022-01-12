@@ -26,8 +26,5 @@ jobs:
       - name: Ensure Docker Containers Aren't Already Running
         run: docker-compose down
 
-      - name: Clean the Docker cache
-        run: docker system prune -af
-
       - name: Deploy Next.js app and nginx
-        run: docker-compose up -d
+        run: docker-compose up -d --build

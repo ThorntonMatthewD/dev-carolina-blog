@@ -1,5 +1,5 @@
 # Base on offical Node.js Alpine image
-FROM node:17-alpine
+FROM node:alpine
 
 # Set working directory
 WORKDIR /usr/app
@@ -11,10 +11,13 @@ RUN npm install --global pm2
 # Utilise Docker cache to save re-installing dependencies if unchanged
 COPY ./package*.json ./
 
-RUN npm cache clean --force
+RUN npm update
 
 # Install dependencies
 RUN npm install --production
+
+#Must be installed seprately due to a weird versioning bug on node v17.
+RUN npm install tailwind
 
 # Copy all files
 COPY ./ ./

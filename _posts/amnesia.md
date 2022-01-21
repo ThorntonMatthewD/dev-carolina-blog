@@ -27,7 +27,9 @@ The short answer is: we can't. At best we can mitigate, and lessen the effects. 
 
   * **Community:** Locate people who want to see you succeed who can act as a mirror for you. They will engage in presenting you with valid, yet tempered, criticism and let you know whenever you've done well, and give you a better idea of the scope of your failures (assuring you that everyone doesn't actually hate you) and how to improve.
 
-  * **Patience:** Understanding that growth takes time, and it can be uncomfortable for a while. Give yourself the space to reflect and be kind to yourself while you work towards your goals.
+  * **Patience:** Understand that growth takes time, and it can be uncomfortable for a while. Give yourself the space to reflect and be kind to yourself while you work towards your goals.
+
+  * **Empathy**: Know that everyone around us experiences these same feelings. Not only let that bring to you ease, but help others as well understand how you're going through similar emotions so that they can be brought into ease also.
 
 
 I'll try to come back to this list as a reminder, and to add to it as I continue to learn how to deal with these emotions. 

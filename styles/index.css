@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+li {
+    margin-left: 10px;
+    list-style-type: circle;
+ }

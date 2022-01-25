@@ -3,6 +3,7 @@ import MoreStories from '../components/more-stories'
 import HeroPost from '../components/hero-post'
 import Intro from '../components/intro'
 import Layout from '../components/layout'
+import { HOME_OG_IMAGE_URL } from '../lib/constants'
 import { getAllPosts } from '../lib/api'
 import Head from 'next/head'
 
@@ -14,6 +15,7 @@ export default function Index({ allPosts }) {
       <Layout>
         <Head>
           <title>Developing Matt</title>
+          <meta property="og:image" content={HOME_OG_IMAGE_URL} />
         </Head>
         <Container>
           <Intro />

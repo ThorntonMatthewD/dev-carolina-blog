@@ -1,5 +1,5 @@
 ---
-title: 'World Wide Web'
+title: 'Tangled in the World Wide Web'
 excerpt: '"The Internet is in fact a series of tubes."'
 coverImage: '/assets/blog/internet/ask-jeeves.png'
 date: '2022-02-07T11:12:32.128Z'

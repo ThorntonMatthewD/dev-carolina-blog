@@ -25,7 +25,7 @@ For Snapping Rails' backend I will also be making a language choice based on a c
 is extremely performant as it's able to handle requests asynchronously. I have gotten very familiar with it in another project I am a part of, where we ported our backend to FastAPI from Flask, and I have seen first-hand what an improvement FastAPI can offer in a high request volume environment. Along with the SQLAlchemy and asyncpg libraries I expect to be able to handle the large amount of data transfer my application will require!
 
 So long story short, I will be writing my backend in Python! 🐍 Despite what the cover image may suggest, it is by far my favorite language and what I am most comfortable with. It is what I consider to be a mix of the best
-object oriented and function programming has to offer!
+object oriented and functional programming has to offer!
 
 ***
 

@@ -7,9 +7,6 @@ li {
     list-style-type: circle;
  }
 
- a {
-     color: blue;
- }
 
  a:hover {
      color: orange;

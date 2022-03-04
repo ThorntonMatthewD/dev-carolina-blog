@@ -6,3 +6,11 @@ li {
     margin-left: 10px;
     list-style-type: circle;
  }
+
+ a {
+     color: blue;
+ }
+
+ a:hover {
+     color: orange;
+ }

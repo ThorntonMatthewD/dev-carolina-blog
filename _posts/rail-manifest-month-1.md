@@ -35,7 +35,7 @@ On the backend side, this is also my first time managing my own Oauth2 flow, and
     8.  Implement issuing of refresh tokens with token rotation (since SR is a SPA) and automatic reuse detection. (3+ hours)
     9.  Add in Profile, Posts, Contact pages. The first two largely depend on the token rework (1.5 hours)
     10. Decide where I want to host this bad boy. (???? hours)
-    11. Set DNS record for domain to point at the chosen hosted platform (1 hour, depending on location)
+    11. Set DNS records for domain to point at the chosen hosted platform (1 hour, depending on location)
     12. Create a CD workflow for master branch (1 hour)
 
     ==============================================

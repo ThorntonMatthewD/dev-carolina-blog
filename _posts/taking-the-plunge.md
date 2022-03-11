@@ -24,7 +24,7 @@ My experience with my host company has been nothing but immersive. The tools and
 
 3 - What tools are we using that have the same purposes as other tools I've used before? How are they similar, and how do they differ? (Ex: Rails vs. Django, ActiveRecord smells a lot like SQLAlchemy, etc...)
 
-3.1 - After comparing and contrasting tools, figure out the lingo specific to the new tools. It'll help with searching for answers!
+3.1 - After comparing and contrasting tools, figure out the lingo specific to the new tools. It'll help with being able to formulate questions regarding these!
 
 4 - Pick a thing the application already does, preferably related to your first tasks/tickets. Start from the UI, do the thing, and follow method calls and data from there. Make a flowchart! What parts are involved?
 

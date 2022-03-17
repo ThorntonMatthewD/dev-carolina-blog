@@ -12,7 +12,7 @@ ogImage:
 
 ## Defining Features
 
-This week, one of our exercises was to define three features for our umbrella projects and assign each acceptance criteria to be met before being allowed to be merged into "production". [Click here to view the exercise.](https://github.com/engineerkit/engineerkit/blob/main/exercises/automated-testing/defining-features.md)
+This week, one of our exercises was to define three features for our umbrella projects and assign each acceptance criteria to be met before being allowed to be merged into "production". [Click here to view the exercise.](https://github.com/engineerkit/engineerkit/blob/main/exercises/automated-testing/defining-features.md) I wrote a user story for each feature to have a succinct description that act as the "why" behind why these features are being pursued.
 
 ## #1021 - Map Marker Filtering
 
